@@ -10,7 +10,7 @@ Screenshot week 1 network config .png
 # Step TWO Installing Kali Linux
 ![Kali Linux Installation]
 Screenshot week 1 Kali linux B084.png
-#Step Three Kali Linux Network Configuration
+# Step Three Kali Linux Network Configuration
 ![Kali Network Configuration]
 Screenshot week 1 network conifg kali .png
 
