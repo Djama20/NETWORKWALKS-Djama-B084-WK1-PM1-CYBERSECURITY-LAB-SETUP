@@ -21,7 +21,7 @@ The purpose of this lab is to learn and practice cybersecurity concepts in a vir
 
 This step covers the installation of VirtualBox and configuration of the virtual network adapter.
 
-![VirtualBox Network Configuration](images/Screenshot%20week%201%20network%20config.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/78e4a25815f7a5191a8222ce49e545a71ec1154f/Screenshot%20week%201%20network%20config%20.png)
 
 ---
 
@@ -29,7 +29,7 @@ This step covers the installation of VirtualBox and configuration of the virtual
 
 This step covers the installation and initial configuration of Kali Linux inside VirtualBox.
 
-![Kali Linux Installation](images/Screenshot%20week%201%20Kali%20linux%20B084.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/78e4a25815f7a5191a8222ce49e545a71ec1154f/Screenshot%20week%201%20Kali%20linux%20B084.png)
 
 ---
 
@@ -37,7 +37,7 @@ This step covers the installation and initial configuration of Kali Linux inside
 
 This step demonstrates the network configuration inside the Kali Linux virtual machine.
 
-![Kali Network Configuration](images/Screenshot%20week%201%20network%20conifg%20kali.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/78e4a25815f7a5191a8222ce49e545a71ec1154f/Screenshot%20week%201%20network%20conifg%20kali%20.png)
 
 ---
 
